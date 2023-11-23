@@ -13,7 +13,7 @@ export default function Home() {
             alt="qr code"
           />
         </div>
-        <h1 className="text-[22px] font-bold mb-4 mt-6">
+        <h1 className="text-[22px] font-bold mb-4 mt-6 text-[#1F314F]">
           Improve your front-end skills by building projects
         </h1>
         <p className="text-[15px] text-[#7D889E] px-4 tracking-[0.188px]">
